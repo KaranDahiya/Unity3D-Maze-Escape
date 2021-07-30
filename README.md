@@ -10,7 +10,9 @@ This is the code I wrote for the first game I made while messing around with Uni
 
 **Download Instructions**
 
-To play the game, download the zip file. After unizipping look for OctoberMaze2.0.exe.remove and rename the file to OctoberMaze2.0.exe. Do NOT move the Data folder to a different place, the Data folder MUST be in the same directory level as the executable for the game to be played. It is quite challenging by design, with some truly unsettling sound effects ;) Expect to take many tries to find your way out of the maze!
+To play the game, download the zip file. After un-zipping look for OctoberMaze2.0.exe.remove and rename the file to be OctoberMaze2.0.exe. Do NOT move the Data folder to a different place, the Data folder MUST be in the same directory level as the executable for the game to be played. 
+
+It is quite challenging by design, with some truly unsettling sound effects ;) Expect to take many tries to find your way out of the maze!
 
 **Screenshots**
 
